@@ -34,3 +34,6 @@ Lastly, I'd like to add that a few images have been set in place in the project 
 
 Here's the link to the Figma project:
 https://www.figma.com/file/FexeduZe4SQEBozzDkZwT4/CV-Project?type=design&node-id=0%3A1&mode=design&t=pA5oJsaiAtFv8nlB-1
+
+Here's the public link to the project itself:
+https://lofixo.github.io
